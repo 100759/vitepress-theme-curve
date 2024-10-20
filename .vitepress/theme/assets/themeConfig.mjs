@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "810C",
     // 站点描述
     description: "Hello World",
     // 站点logo
